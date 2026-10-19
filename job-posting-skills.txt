@@ -1,0 +1,21 @@
+Biostatistician (Mid level)
+- PhD, MD, or masters degree (preferred in biostatistics, data science, or statistics)
+- Python or R skills (must have)
+- Experience with building AI models (must have)
+- Knowledge of clinical design and statistical analysis (preferred to have)
+- Interest in biotechnology, drug development, investing, and financial markets (preferred to have)
+- Equity-research experience (nice to have)
+Data Scientist (Mid level)
+- Diverse perspectives (nice to have)
+- Doctorate in data science, math, statistics, econometrics, or other related fields (must have) - or a masters or bachelors with multiple years of experience
+- Collaboration (preferred)
+- Developing project plans and assessing risks (preferred)
+- Build and use models using machine learning (must have)
+- Experience with develop AI applications (preferred)
+- Coding skills (must have)
+Both
+- masters, doctorate, or PhD in data science, statistics, or a related field
+- coding skills (python or R)
+- experience with AI models/applications
+
+What surprised me about these two job postings is that the biostatistician job posting was more focused on research based things for qualification while on the other hand the data scientist focused more on NACE skills like collaboration. Neither of these job postings had that many specific qualifications but the ones that were, overlapped between both postings. 
