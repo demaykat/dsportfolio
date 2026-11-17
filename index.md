@@ -11,3 +11,6 @@ My name is Katherine DeMay, and I am a sophomore at Oregon State University purs
 
 ## Projects
 Projects in progress, check back soon!
+
+## Contact Information
+
