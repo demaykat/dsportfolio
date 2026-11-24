@@ -12,5 +12,10 @@ My name is Katherine DeMay, and I am a sophomore at Oregon State University purs
 ## Projects
 Projects in progress, check back soon!
 
+## Career Goals
+One career goal I am working toward is developing a career in data science within the life sciences, particularly in drug discovery or the pharmaceutical industry. Since I am pursuing degrees in both biology and data science with a concentration in life sciences, I plan on taking more biology and other life science lab courses. Labs give me opportunities to work with others and collect and analyze data. These experiences can help me develop skills that will be important in a future data science career, such as collaboration, organization, problem-solving, and communication. I especially enjoy working with data collected in life science labs because it connects my interests in biology and data science. Another way to help pursue this goal is joining a club related to my interests and becoming involved in organizing or running it. This would allow me to gain additional experience working with others and developing leadership, communication, and organizational skills. I also want to look for internships or research opportunities that involve both biology and data analysis. These experiences would allow me to apply what I learn in my classes to real-world situations. Overall, these opportunities will help prepare me for a career where I can work as part of a team to use data to solve real-world problems in the life sciences.
+
 ## Contact Information
+
+
 
